@@ -23,7 +23,7 @@
       <td>Its an Outcome Base Education management Webapp which portray a student Learning parameter skill </td>
     </tr>
      <tr>
-      <td><a href="[https://github.com/Ashraf-ul-I/OBE-Project.git](https://github.com/Ashraf-ul-I/AI-ML-Project.git)" rel="nofollow">Titanic Dataset Classification</a></td>
+      <td><a href="https://github.com/Ashraf-ul-I/AI-ML-Project.git" rel="nofollow">Titanic Dataset Classification</a></td>
       <td>Using Row codes of Bayes and Naive Bayes I train the titanic dataset and predict the accuracy score. Also briefly demonstrate how feature engineering and pre-processing work in the dataset. </td>
     </tr>
   </tbody>
