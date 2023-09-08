@@ -2,9 +2,9 @@
 
 
 
-- 👋 Hi there! I'm Md Ashraful Islam, an enthusiastic Web Developer and a dedicated student majoring in Computer Science and Engineering (CSE). 
--🌐 My passion lies in the world of AI and Machine Learning, where I'm constantly exploring and learning to create intelligent, data-driven solutions.
-- Let's connect, collaborate, and code our way to a smarter future! 🚀 #AI #MachineLearning #WebDevelopment
+- 👋 Hi there! I'm <h4>Md Ashraful Islam</h4>,an enthusiastic <h5>Web Developer</h5><br>
+- 🌐 My passion lies in the world of <h6>AI</h6> and <h6>Machine Learning</h6>, where I'm constantly exploring and learning to create intelligent, data-driven solutions.<br>
+- Let's connect, collaborate, and code our way to a smarter future! 🚀 #AI #MachineLearning #WebDevelopment<br>
 - 📫 How to reach me via crackthecode10@gmail.com or ashrafultan10@gmail.com
 
 <h3>Things i am used to code</h3>
