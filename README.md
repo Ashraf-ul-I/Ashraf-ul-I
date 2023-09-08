@@ -2,9 +2,9 @@
 
 
 
-- 👋 Hi, I’m Md. Ashraful Islam
-- 👀 I’m interested in Ai,Machine Learning and Web Development
-- 🌱 I’m currently learning Machine Learning Along with Advance myself towards Web Development
+- 👋 Hi there! I'm Md Ashraful Islam, an enthusiastic Web Developer and a dedicated student majoring in Computer Science and Engineering (CSE). 
+-🌐 My passion lies in the world of AI and Machine Learning, where I'm constantly exploring and learning to create intelligent, data-driven solutions.
+- Let's connect, collaborate, and code our way to a smarter future! 🚀 #AI #MachineLearning #WebDevelopment
 - 📫 How to reach me via crackthecode10@gmail.com or ashrafultan10@gmail.com
 
 <h3>Things i am used to code</h3>
