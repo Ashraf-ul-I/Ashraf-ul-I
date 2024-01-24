@@ -1,6 +1,3 @@
-![PXL_20230731_120622155 PORTRAIT~2](https://github.com/Ashraf-ul-I/Ashraf-ul-I/assets/143094391/bc14f384-3518-459c-807c-66ce548b3277)
-
-
 
 - 👋 Hi there! I'm <b>Md Ashraful Islam</b>,an enthusiastic Web Developer
 - 🌐 My passion lies in the world of AI and Machine Learning, where I'm constantly exploring and learning to create intelligent, data-driven solutions.<br>
@@ -10,15 +7,16 @@
 <div>
 
 
-![](https://github.com/Ashraf-ul-I/Ashraf-ul-I/blob/master/generated/overview.svg)
-![](https://github.com/Ashraf-ul-I/Ashraf-ul-I/blob/master/generated/languages.svg)
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Ashraf-ul-I's github stats](https://github-readme-stats.vercel.app/api?username=Ashraf-ul-I&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Ashraf-ul-I's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-ul-I&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+
+
 
 </div>
 
 <h3> These things are my constant companion in my daily work.</h3>
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ashraf-ul-I&show_icons=true&theme=gotham" alt="Ashraf-ul-I" />
 
 <h3>My Projects</h3>
 <table>
