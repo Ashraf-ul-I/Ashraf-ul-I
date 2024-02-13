@@ -23,8 +23,20 @@
   <thead align="center">
       <td><b>Projects</b></td>
       <td><b>Description</b></td> 
+      <td><b>Live Hosted Link</b></td> 
   </thead> 
   <tbody>
+     <tr>
+      <td><a href="https://github.com/Ashraf-ul-I/BurgerBuilder_Project.git" rel="nofollow">Burger Builder Project</a></td>
+      <td>The Burger Builder project uses React, Redux, and Firebase to let users build and order their own burgers.
+        Redux helps keep track of changes and updates, making sure everything stays organized. 
+        Firebase handles user logins securely and stores their data safely</td>
+      <td><a href="https://burger-builder-57520.firebaseapp.com/login" rel="nofollow">CLICK ON LINK</a></td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/Ashraf-ul-I/resturant-app.git" rel="nofollow">Resturant App</a></td>
+      <td>The restaurant app is built with React, Redux, and a JSON server, providing users with a seamless experience for browsing dishes and leaving reviews. The integration of Redux ensures efficient state management, enabling dynamic updates and error handling throughout the application.</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/Ashraf-ul-I/OBE-Project.git" rel="nofollow">OBE</a></td>
       <td>Its an Outcome Base Education management Webapp which portray a student Learning parameter skill </td>
