@@ -23,27 +23,28 @@
   <thead align="center">
       <td><b>Projects</b></td>
       <td><b>Description</b></td> 
-      <td><b>Live Hosted Link</b></td> 
+      <td><b> Hosted</b></td> 
   </thead> 
   <tbody>
      <tr>
       <td><a href="https://github.com/Ashraf-ul-I/BurgerBuilder_Project.git" rel="nofollow">Burger Builder Project</a></td>
-      <td>The Burger Builder project uses React, Redux, and Firebase to let users build and order their own burgers.
-        Redux helps keep track of changes and updates, making sure everything stays organized. 
-        Firebase handles user logins securely and stores their data safely</td>
-      <td><a href="https://burger-builder-57520.firebaseapp.com/login" rel="nofollow">CLICK ON LINK</a></td>
+      <td>The Burger Builder project utilizes React, Redux, and Firebase for burger customization and ordering. Redux manages updates efficiently, while Firebase ensures secure user authentication and data storage.</td>
+      <td><a href="https://burger-builder-57520.firebaseapp.com/login" rel="nofollow">LINK</a></td>
     </tr>
      <tr>
       <td><a href="https://github.com/Ashraf-ul-I/resturant-app.git" rel="nofollow">Resturant App</a></td>
-      <td>The restaurant app is built with React, Redux, and a JSON server, providing users with a seamless experience for browsing dishes and leaving reviews. The integration of Redux ensures efficient state management, enabling dynamic updates and error handling throughout the application.</td>
+      <td>The restaurant app, powered by React, Redux, and a JSON server, offers users a smooth experience for exploring dishes and leaving reviews. Redux ensures seamless state management, facilitating dynamic updates and error handling.</td>
+        <td><a href="#" rel="nofollow">❌</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Ashraf-ul-I/OBE-Project.git" rel="nofollow">OBE</a></td>
       <td>Its an Outcome Base Education management Webapp which portray a student Learning parameter skill </td>
+       <td><a href="#" rel="nofollow" style="color:red">❌</a></td>
     </tr>
      <tr>
       <td><a href="https://github.com/Ashraf-ul-I/AI-ML-Project.git" rel="nofollow">Titanic Dataset Classification</a></td>
       <td>Using Row codes of Bayes and Naive Bayes I train the titanic dataset and predict the accuracy score. Also briefly demonstrate how feature engineering and pre-processing work in the dataset. </td>
+        <td><a href="#" rel="nofollow">❌</a></td>
     </tr>
   </tbody>
 </table>
