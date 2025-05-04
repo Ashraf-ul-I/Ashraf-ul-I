@@ -31,6 +31,11 @@
       <td>"Ashraful's Blog: Engaging and insightful content on web development and software engineering, leveraging MERN technology and hosted live on Render."</td>
       <td><a href="https://ashraful-blog-app.onrender.com/" rel="nofollow">LINK</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Ashraf-ul-I/BurgerBuilder_Project.git" rel="nofollow">Ashraful's Blog</a></td>
+      <td>"Crm For Freelancer is a website for freelancer or developer who can track their all records of clients project reminder logs and has their own dashboard to keep eye on all the things at a time"</td>
+      <td><a href="https://crm-freelancer-f-ull-c-ode.vercel.app/" rel="nofollow">LINK</a></td>
+    </tr>
      <tr>
       <td><a href="https://github.com/Ashraf-ul-I/BurgerBuilder_Project.git" rel="nofollow">Burger Builder Project</a></td>
       <td>The Burger Builder project utilizes React, Redux, and Firebase for burger customization and ordering. Redux manages updates efficiently, while Firebase ensures secure user authentication and data storage.</td>
@@ -46,6 +51,7 @@
       <td>Its an Outcome Base Education management Webapp which portray a student Learning parameter skill </td>
        <td><a href="#" rel="nofollow" style="color:red">❌</a></td>
     </tr>
+
   
   </tbody>
 </table>
